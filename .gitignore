@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+.idea/
+.env
+
+calculadoras/*.pdf
+!calculadoras/.gitkeep  # (Opcional: mantém a pasta vazia no git, mas sem os PDFs)
+
+*.xlsx
+*.csv
+*.json
+*.log
+output/
